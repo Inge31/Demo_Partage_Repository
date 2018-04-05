@@ -12,5 +12,5 @@ Ensuite, nous avons travaillé localement le projet.
 
 Avant de tout commiter et de redéposer sur GitHub.
 
-##But du projet
+## But du projet
 Faire un premier pas avec l'utilisation de la bibliothèque JQuery pour dynamiser des pages HTML
